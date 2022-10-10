@@ -1,0 +1,14 @@
+# Environments
+venv/
+.venv
+.venv/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Testing
+test_data/
